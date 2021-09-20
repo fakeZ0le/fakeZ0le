@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @z0le007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🚀 I’m currently working on ... Nothing LMAO
+💎 I’m currently learning ... Python
+🔥 I’m looking for help with ... Python
+🧲 I’m looking to collaborate on ... ESX Balkan
+💬 Ask me about ... Anything
+
 
 <!---
 z0le007/z0le007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
