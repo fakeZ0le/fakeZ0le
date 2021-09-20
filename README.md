@@ -1,8 +1,8 @@
-🚀 I’m currently working on ... Nothing LMAO
-💎 I’m currently learning ... Python
-🔥 I’m looking for help with ... Python
-🧲 I’m looking to collaborate on ... ESX Balkan
-💬 Ask me about ... Anything
+🚀・  I’m currently working on ... Nothing LMAO
+💎 ・ I’m currently learning ... Python
+🔥 ・ I’m looking for help with ... Python
+🧲 ・ I’m looking to collaborate on ... ESX Balkan
+💬 ・ Ask me about ... Anything
 
 
 <!---
