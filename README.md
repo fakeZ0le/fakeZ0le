@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Zoran])! 😁
+### Hi there 👋, I am Zoran! 😁
 
 
 Hello, my name is Zoran Mitic but you can call me Zole.
